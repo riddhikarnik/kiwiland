@@ -1,4 +1,5 @@
-A Maven Project with Jar packaging for the problem area of:
+A Maven Project built with Java 8 and JUnit libraries.
+Packages to a jar when built. Executable file is <b>"Solution"</b>
 
 A local commuter railroad services a number of towns in
 Kiwiland.  Because of monetary concerns, all of the tracks are 'one-way.'
